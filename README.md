@@ -1,39 +1,34 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Hi, I'm Balu 👋 (aka Sh4d0wDr4g0n)</h1>
 
-## Getting Started
+🎓 B.Tech Cybersecurity Student @ SNIST (2027)  
+🔐 CTF Player | OSINT & Privilege Escalation Lover  
+🎯 Top 8% on TryHackMe: [TryHackMe Profile](https://tryhackme.com/p/Sh4d0wDr4g0n)  
+👨‍💻 Building tools, writeups, and a hacker team
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🧠 Current Focus
+- Web Exploitation
+- OSINT Investigations
+- Privilege Escalation (Linux & Windows)
+- GitHub Writeups Coming Soon
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### 🛠 Tools & Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=fff)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-orange?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+### 📫 Connect with Me
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-CUSTOM-URL)
+- 🧠 [TryHackMe](https://tryhackme.com/p/Sh4d0wDr4g0n)
+- 🌐 Website – Coming soon!
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# 1st
-# 1st
-# balukali
+_“Hack. Learn. Grow.”_
